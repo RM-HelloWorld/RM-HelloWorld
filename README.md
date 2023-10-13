@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+RoboMaster机甲大师浙江大学参赛队Hello World🚀
+
+Let's say: Hello World!🥳 
+
 <!--
 **RM-HelloWorld/RM-HelloWorld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
